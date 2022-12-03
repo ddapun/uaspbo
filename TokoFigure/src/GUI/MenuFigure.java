@@ -128,7 +128,6 @@ public class MenuFigure extends javax.swing.JFrame {
             this.showData();
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(null, "Hapus DIbatalkan");
-//            Logger.getLogger(MenuBuku.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_delDataMouseClicked
 
